@@ -87,7 +87,8 @@ banner-content{
 }
 /*main section style */
 main{
-   max-width: 1140 ;
+   max-width: 1140px ;
+   margin: 0 auto;
 }
 
 
