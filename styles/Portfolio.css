@@ -86,6 +86,9 @@ banner-content{
     margin-bottom: 5px;
 }
 /*main section style */
+main{
+   max-width: 1140 ;
+}
 
 
 /*about section styles */
@@ -93,4 +96,5 @@ banner-content{
     padding: 130px;
     border-radius: 10px;
     background: #FFF8F3;
+    margin: 130px 0;
 }
